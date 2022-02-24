@@ -1,2 +1,2 @@
 git add .
-git commit -m "Thu message"
+git commit -m "Thu message lan 2"
