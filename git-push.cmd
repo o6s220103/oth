@@ -1,3 +1,3 @@
 git add .
-git commit -m "Thử message"
+git commit -m "Thu message"
 git push
